@@ -1,0 +1,79 @@
+* {
+  background-color: #669999;
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+ul{
+  display: inline;
+  text-align: right;
+}
+
+ul li {
+  display:inline;
+}
+
+ul li a {
+  text-decoration: none;
+  padding: .2em 1em;
+  color: white;
+  background-color: #6699FF;
+}
+
+ul li a:hover{
+  color: #fff;
+  background-color: #369;
+    
+}
+
+.concept-title {
+  text-align: center;
+  font-size: 23px;
+  font-family: courier;
+}
+
+.code {
+  font-family: courier;
+  font-weight: bold;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+.concept-description {
+  font-weight: lighter;
+  margin: 6px;
+}
+
+.concept {
+  background-color: #009900;
+  padding: 4px;
+  margin: 10px;
+  border-radius: 4px;
+  color: black;
+}
+
+.lesson {
+  background-color: #333300;
+  padding: 4px;
+  margin: 2px auto;
+  border-radius: 20px;
+}
+
+p {
+  margin: 10px 0;
+}
+
+body {
+  padding: 20px 10px;
+  max-width: 2000px;
+  margin: 0 auto;
+  font-size: 1.4em;
+}
